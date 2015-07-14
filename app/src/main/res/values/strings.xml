@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Fill Murray Viewer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Main Activity-->
+    <string name="android_training">Android Training</string>
+
+</resources>
